@@ -1,6 +1,6 @@
 # 📈 Stock Price Traking and Prediction Project
 
-Welcome to the Gold Price Prediction project! This project aims to predict gold prices in the stock market using machine learning techniques. The project utilizes a client-server architecture with React as the front-end framework, .NET Web and .NET Core as the back-end frameworks, and Python machine learning models integrated for data analysis. The project also includes Docker for containerization and Azure Cloud for deployment.
+Welcome to the Stock Price Prediction project! This project aims to predict stock prices in the stock market using machine learning techniques. The project utilizes a client-server architecture with React as the front-end framework, .NET Web and .NET Core as the back-end frameworks, and Python machine learning models integrated for data analysis. The project also includes Docker for containerization and Azure Cloud for deployment.
 
 ## 🚀 Features
 
