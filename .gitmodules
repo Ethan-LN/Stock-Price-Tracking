@@ -1,0 +1,3 @@
+[submodule "dashboard-react-frontend"]
+	path = dashboard-react-frontend
+	url = https://github.com/Ethan-LN/dashboard-react-frontend.git
