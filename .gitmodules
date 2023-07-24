@@ -1,3 +1,6 @@
 [submodule "dashboard-react-frontend"]
 	path = dashboard-react-frontend
 	url = https://github.com/Ethan-LN/dashboard-react-frontend.git
+[submodule "ml_transformers"]
+	path = ml_transformers
+	url = git@github.com:Ethan-LN/Transformers-Model.git
